@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\3. Type Casting\bin\Debug\net8.0\3. Type Casting.exe
+C:\Users\marin\source\repos\3. Type Casting\bin\Debug\net8.0\3. Type Casting.deps.json
+C:\Users\marin\source\repos\3. Type Casting\bin\Debug\net8.0\3. Type Casting.runtimeconfig.json
+C:\Users\marin\source\repos\3. Type Casting\bin\Debug\net8.0\3. Type Casting.dll
+C:\Users\marin\source\repos\3. Type Casting\bin\Debug\net8.0\3. Type Casting.pdb
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\3. Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\3. Type Casting.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\3. Type Casting.AssemblyInfo.cs
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\3. Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\3. Type Casting.dll
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\refint\3. Type Casting.dll
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\3. Type Casting.pdb
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\3. Type Casting.genruntimeconfig.cache
+C:\Users\marin\source\repos\3. Type Casting\obj\Debug\net8.0\ref\3. Type Casting.dll

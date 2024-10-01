@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\1. Variabili\bin\Debug\net8.0\1. Variabili.exe
+C:\Users\marin\source\repos\1. Variabili\bin\Debug\net8.0\1. Variabili.deps.json
+C:\Users\marin\source\repos\1. Variabili\bin\Debug\net8.0\1. Variabili.runtimeconfig.json
+C:\Users\marin\source\repos\1. Variabili\bin\Debug\net8.0\1. Variabili.dll
+C:\Users\marin\source\repos\1. Variabili\bin\Debug\net8.0\1. Variabili.pdb
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\1. Variabili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\1. Variabili.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\1. Variabili.AssemblyInfo.cs
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\1. Variabili.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\1. Variabili.dll
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\refint\1. Variabili.dll
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\1. Variabili.pdb
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\1. Variabili.genruntimeconfig.cache
+C:\Users\marin\source\repos\1. Variabili\obj\Debug\net8.0\ref\1. Variabili.dll
