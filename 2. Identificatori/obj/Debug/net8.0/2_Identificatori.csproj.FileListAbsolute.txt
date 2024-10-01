@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\2. Identificatori\bin\Debug\net8.0\2_Identificatori.exe
+C:\Users\marin\source\repos\2. Identificatori\bin\Debug\net8.0\2_Identificatori.deps.json
+C:\Users\marin\source\repos\2. Identificatori\bin\Debug\net8.0\2_Identificatori.runtimeconfig.json
+C:\Users\marin\source\repos\2. Identificatori\bin\Debug\net8.0\2_Identificatori.dll
+C:\Users\marin\source\repos\2. Identificatori\bin\Debug\net8.0\2_Identificatori.pdb
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\2_Identificatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\2_Identificatori.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\2_Identificatori.AssemblyInfo.cs
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\2_Identificatori.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\2_Identificatori.dll
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\refint\2_Identificatori.dll
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\2_Identificatori.pdb
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\2_Identificatori.genruntimeconfig.cache
+C:\Users\marin\source\repos\2. Identificatori\obj\Debug\net8.0\ref\2_Identificatori.dll
