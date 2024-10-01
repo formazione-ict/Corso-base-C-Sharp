@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\11. Do-While\bin\Debug\net8.0\11. Do-While.exe
+C:\Users\marin\source\repos\11. Do-While\bin\Debug\net8.0\11. Do-While.deps.json
+C:\Users\marin\source\repos\11. Do-While\bin\Debug\net8.0\11. Do-While.runtimeconfig.json
+C:\Users\marin\source\repos\11. Do-While\bin\Debug\net8.0\11. Do-While.dll
+C:\Users\marin\source\repos\11. Do-While\bin\Debug\net8.0\11. Do-While.pdb
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\11. Do-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\11. Do-While.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\11. Do-While.AssemblyInfo.cs
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\11. Do-While.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\11. Do-While.dll
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\refint\11. Do-While.dll
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\11. Do-While.pdb
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\11. Do-While.genruntimeconfig.cache
+C:\Users\marin\source\repos\11. Do-While\obj\Debug\net8.0\ref\11. Do-While.dll

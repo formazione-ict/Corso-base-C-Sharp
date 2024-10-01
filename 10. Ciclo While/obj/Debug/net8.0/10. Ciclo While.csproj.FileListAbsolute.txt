@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\10. Ciclo While\bin\Debug\net8.0\10. Ciclo While.exe
+C:\Users\marin\source\repos\10. Ciclo While\bin\Debug\net8.0\10. Ciclo While.deps.json
+C:\Users\marin\source\repos\10. Ciclo While\bin\Debug\net8.0\10. Ciclo While.runtimeconfig.json
+C:\Users\marin\source\repos\10. Ciclo While\bin\Debug\net8.0\10. Ciclo While.dll
+C:\Users\marin\source\repos\10. Ciclo While\bin\Debug\net8.0\10. Ciclo While.pdb
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\10. Ciclo While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\10. Ciclo While.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\10. Ciclo While.AssemblyInfo.cs
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\10. Ciclo While.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\10. Ciclo While.dll
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\refint\10. Ciclo While.dll
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\10. Ciclo While.pdb
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\10. Ciclo While.genruntimeconfig.cache
+C:\Users\marin\source\repos\10. Ciclo While\obj\Debug\net8.0\ref\10. Ciclo While.dll

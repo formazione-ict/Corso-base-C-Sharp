@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\12. Ciclo For\bin\Debug\net8.0\12. Ciclo For.exe
+C:\Users\marin\source\repos\12. Ciclo For\bin\Debug\net8.0\12. Ciclo For.deps.json
+C:\Users\marin\source\repos\12. Ciclo For\bin\Debug\net8.0\12. Ciclo For.runtimeconfig.json
+C:\Users\marin\source\repos\12. Ciclo For\bin\Debug\net8.0\12. Ciclo For.dll
+C:\Users\marin\source\repos\12. Ciclo For\bin\Debug\net8.0\12. Ciclo For.pdb
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\12. Ciclo For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\12. Ciclo For.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\12. Ciclo For.AssemblyInfo.cs
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\12. Ciclo For.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\12. Ciclo For.dll
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\refint\12. Ciclo For.dll
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\12. Ciclo For.pdb
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\12. Ciclo For.genruntimeconfig.cache
+C:\Users\marin\source\repos\12. Ciclo For\obj\Debug\net8.0\ref\12. Ciclo For.dll
