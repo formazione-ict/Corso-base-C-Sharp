@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\8. IF-ELSE\bin\Debug\net8.0\8. IF-ELSE.exe
+C:\Users\marin\source\repos\8. IF-ELSE\bin\Debug\net8.0\8. IF-ELSE.deps.json
+C:\Users\marin\source\repos\8. IF-ELSE\bin\Debug\net8.0\8. IF-ELSE.runtimeconfig.json
+C:\Users\marin\source\repos\8. IF-ELSE\bin\Debug\net8.0\8. IF-ELSE.dll
+C:\Users\marin\source\repos\8. IF-ELSE\bin\Debug\net8.0\8. IF-ELSE.pdb
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\8. IF-ELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\8. IF-ELSE.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\8. IF-ELSE.AssemblyInfo.cs
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\8. IF-ELSE.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\8. IF-ELSE.dll
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\refint\8. IF-ELSE.dll
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\8. IF-ELSE.pdb
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\8. IF-ELSE.genruntimeconfig.cache
+C:\Users\marin\source\repos\8. IF-ELSE\obj\Debug\net8.0\ref\8. IF-ELSE.dll

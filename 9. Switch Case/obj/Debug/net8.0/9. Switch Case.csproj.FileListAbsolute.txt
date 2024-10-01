@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\9. Switch Case\bin\Debug\net8.0\9. Switch Case.exe
+C:\Users\marin\source\repos\9. Switch Case\bin\Debug\net8.0\9. Switch Case.deps.json
+C:\Users\marin\source\repos\9. Switch Case\bin\Debug\net8.0\9. Switch Case.runtimeconfig.json
+C:\Users\marin\source\repos\9. Switch Case\bin\Debug\net8.0\9. Switch Case.dll
+C:\Users\marin\source\repos\9. Switch Case\bin\Debug\net8.0\9. Switch Case.pdb
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\9. Switch Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\9. Switch Case.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\9. Switch Case.AssemblyInfo.cs
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\9. Switch Case.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\9. Switch Case.dll
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\refint\9. Switch Case.dll
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\9. Switch Case.pdb
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\9. Switch Case.genruntimeconfig.cache
+C:\Users\marin\source\repos\9. Switch Case\obj\Debug\net8.0\ref\9. Switch Case.dll

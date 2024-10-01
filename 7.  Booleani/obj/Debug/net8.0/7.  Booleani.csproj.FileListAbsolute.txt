@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\7.  Booleani\bin\Debug\net8.0\7.  Booleani.exe
+C:\Users\marin\source\repos\7.  Booleani\bin\Debug\net8.0\7.  Booleani.deps.json
+C:\Users\marin\source\repos\7.  Booleani\bin\Debug\net8.0\7.  Booleani.runtimeconfig.json
+C:\Users\marin\source\repos\7.  Booleani\bin\Debug\net8.0\7.  Booleani.dll
+C:\Users\marin\source\repos\7.  Booleani\bin\Debug\net8.0\7.  Booleani.pdb
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\7.  Booleani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\7.  Booleani.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\7.  Booleani.AssemblyInfo.cs
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\7.  Booleani.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\7.  Booleani.dll
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\refint\7.  Booleani.dll
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\7.  Booleani.pdb
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\7.  Booleani.genruntimeconfig.cache
+C:\Users\marin\source\repos\7.  Booleani\obj\Debug\net8.0\ref\7.  Booleani.dll
