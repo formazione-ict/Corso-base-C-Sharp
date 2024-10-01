@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\4. User Inputs\bin\Debug\net8.0\4. User Inputs.exe
+C:\Users\marin\source\repos\4. User Inputs\bin\Debug\net8.0\4. User Inputs.deps.json
+C:\Users\marin\source\repos\4. User Inputs\bin\Debug\net8.0\4. User Inputs.runtimeconfig.json
+C:\Users\marin\source\repos\4. User Inputs\bin\Debug\net8.0\4. User Inputs.dll
+C:\Users\marin\source\repos\4. User Inputs\bin\Debug\net8.0\4. User Inputs.pdb
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\4. User Inputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\4. User Inputs.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\4. User Inputs.AssemblyInfo.cs
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\4. User Inputs.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\4. User Inputs.dll
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\refint\4. User Inputs.dll
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\4. User Inputs.pdb
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\4. User Inputs.genruntimeconfig.cache
+C:\Users\marin\source\repos\4. User Inputs\obj\Debug\net8.0\ref\4. User Inputs.dll

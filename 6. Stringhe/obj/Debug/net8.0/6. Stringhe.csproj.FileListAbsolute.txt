@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\6. Stringhe\bin\Debug\net8.0\6. Stringhe.exe
+C:\Users\marin\source\repos\6. Stringhe\bin\Debug\net8.0\6. Stringhe.deps.json
+C:\Users\marin\source\repos\6. Stringhe\bin\Debug\net8.0\6. Stringhe.runtimeconfig.json
+C:\Users\marin\source\repos\6. Stringhe\bin\Debug\net8.0\6. Stringhe.dll
+C:\Users\marin\source\repos\6. Stringhe\bin\Debug\net8.0\6. Stringhe.pdb
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\6. Stringhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\6. Stringhe.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\6. Stringhe.AssemblyInfo.cs
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\6. Stringhe.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\6. Stringhe.dll
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\refint\6. Stringhe.dll
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\6. Stringhe.pdb
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\6. Stringhe.genruntimeconfig.cache
+C:\Users\marin\source\repos\6. Stringhe\obj\Debug\net8.0\ref\6. Stringhe.dll

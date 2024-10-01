@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\5. Operatori.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\5. Operatori.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\5. Operatori.AssemblyInfo.cs
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\5. Operatori.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\5. Operatori\bin\Debug\net8.0\5. Operatori.exe
+C:\Users\marin\source\repos\5. Operatori\bin\Debug\net8.0\5. Operatori.deps.json
+C:\Users\marin\source\repos\5. Operatori\bin\Debug\net8.0\5. Operatori.runtimeconfig.json
+C:\Users\marin\source\repos\5. Operatori\bin\Debug\net8.0\5. Operatori.dll
+C:\Users\marin\source\repos\5. Operatori\bin\Debug\net8.0\5. Operatori.pdb
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\5. Operatori.dll
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\refint\5. Operatori.dll
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\5. Operatori.pdb
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\5. Operatori.genruntimeconfig.cache
+C:\Users\marin\source\repos\5. Operatori\obj\Debug\net8.0\ref\5. Operatori.dll
