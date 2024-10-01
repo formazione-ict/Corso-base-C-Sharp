@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\16. Lists\bin\Debug\net8.0\16. Lists.exe
+C:\Users\marin\source\repos\16. Lists\bin\Debug\net8.0\16. Lists.deps.json
+C:\Users\marin\source\repos\16. Lists\bin\Debug\net8.0\16. Lists.runtimeconfig.json
+C:\Users\marin\source\repos\16. Lists\bin\Debug\net8.0\16. Lists.dll
+C:\Users\marin\source\repos\16. Lists\bin\Debug\net8.0\16. Lists.pdb
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\16. Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\16. Lists.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\16. Lists.AssemblyInfo.cs
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\16. Lists.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\16. Lists.dll
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\refint\16. Lists.dll
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\16. Lists.pdb
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\16. Lists.genruntimeconfig.cache
+C:\Users\marin\source\repos\16. Lists\obj\Debug\net8.0\ref\16. Lists.dll

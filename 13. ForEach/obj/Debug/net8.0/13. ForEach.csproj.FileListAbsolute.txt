@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\13. ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\13. ForEach.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\13. ForEach.AssemblyInfo.cs
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\13. ForEach.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\13. ForEach\bin\Debug\net8.0\13. ForEach.exe
+C:\Users\marin\source\repos\13. ForEach\bin\Debug\net8.0\13. ForEach.deps.json
+C:\Users\marin\source\repos\13. ForEach\bin\Debug\net8.0\13. ForEach.runtimeconfig.json
+C:\Users\marin\source\repos\13. ForEach\bin\Debug\net8.0\13. ForEach.dll
+C:\Users\marin\source\repos\13. ForEach\bin\Debug\net8.0\13. ForEach.pdb
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\13. ForEach.dll
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\refint\13. ForEach.dll
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\13. ForEach.pdb
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\13. ForEach.genruntimeconfig.cache
+C:\Users\marin\source\repos\13. ForEach\obj\Debug\net8.0\ref\13. ForEach.dll

@@ -1,0 +1,14 @@
+C:\Users\marin\source\repos\15. Arrays\bin\Debug\net8.0\15. Arrays.exe
+C:\Users\marin\source\repos\15. Arrays\bin\Debug\net8.0\15. Arrays.deps.json
+C:\Users\marin\source\repos\15. Arrays\bin\Debug\net8.0\15. Arrays.runtimeconfig.json
+C:\Users\marin\source\repos\15. Arrays\bin\Debug\net8.0\15. Arrays.dll
+C:\Users\marin\source\repos\15. Arrays\bin\Debug\net8.0\15. Arrays.pdb
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\15. Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\15. Arrays.AssemblyInfoInputs.cache
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\15. Arrays.AssemblyInfo.cs
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\15. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\15. Arrays.dll
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\refint\15. Arrays.dll
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\15. Arrays.pdb
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\15. Arrays.genruntimeconfig.cache
+C:\Users\marin\source\repos\15. Arrays\obj\Debug\net8.0\ref\15. Arrays.dll
